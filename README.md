@@ -5,7 +5,7 @@
 - 🧰 Main Tools: C and Front-end development
 - ⚡ Fun fact: I play piano and develop some websites
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 Link to [Linkedin](https://www.linkedin.com/in/arthur-de-paula-moraes-9a96531b1/)
 
 <!--
