@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi 👋 I'm arthur10112
+🎓 I'm an Information Systems student at Unicamp
 
 - 🌱 I’m currently learning Python
 - 🧰 Main Tools: C and Front-end development
